@@ -3,13 +3,17 @@ Here are some of my favorite projects showcasing my skills across different doma
 ## About
 ### Education
 M.S., Data Science - Bellevue University (June 2024) (GPA: 4.0)
+B.S. - Frostburg State University (May 2020)
+
 
 ### Technical Skills
 Python, SQL, R, Nifi, PySpark, Kafka, Hadoop
 
+
 ## Projects
 ### Testing
 la de de la
+
 
 # Contact
 - Mobile: (410)-443-4376
