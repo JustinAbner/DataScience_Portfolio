@@ -2,7 +2,7 @@ title: Justin Abner
 #logo: /assets/img/headshot_circle.png   Will need to add an assets folder with images inside
 description: Welcome! Here are some of my favorite projects showcasing my skills across different domains utilizing various programming languages, packages, and technologies!
 social-network-links:
-  linkedin: justinabner
+  LinkedIn: "justinabner"
 share-links-active:
   linkedin: true
 show_downloads: true
