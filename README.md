@@ -2,8 +2,8 @@
 Here are some of my favorite projects showcasing my skills across different domains utilizing various programming languages, packages, and technologies!
 ## About
 ### Education
-M.S., Data Science - Bellevue University (June 2024) (GPA: 4.0)
-B.S. - Frostburg State University (May 2020)
+- M.S., Data Science - Bellevue University (June 2024) (GPA: 4.0)
+- B.S. - Frostburg State University (May 2020)
 
 
 ### Technical Skills
