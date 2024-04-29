@@ -1,8 +1,12 @@
 # Data Science Portfolio
 Here are some of my favorite projects showcasing my skills across different domains utilizing various programming languages, packages, and technologies!
 
-## Technical Skills
+### Technical Skills
 Python, SQL, R, Nifi, PySpark, Kafka, Hadoop
+
+## Projects
+### Testing
+la de de la
 
 # Contact
 - Mobile: (410)-443-4376
