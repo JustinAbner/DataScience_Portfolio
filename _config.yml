@@ -3,5 +3,7 @@ title: Justin Abner
 description: Welcome! Here are some of my favorite projects showcasing my skills across different domains utilizing various programming languages, packages, and technologies!
 social-network-links:
   linkedin: justinabner
+share-links-active:
+  linkedin: true
 show_downloads: true
 theme: jekyll-theme-minimal
