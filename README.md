@@ -5,9 +5,11 @@
 - M.S., Data Science - Bellevue University (June 2024) (GPA: 4.0)
 - B.S. - Frostburg State University (May 2020)
 
-
 ### Technical Skills
-Python, SQL, R, Nifi, PySpark, Kafka, Hadoop
+Python, SQL, R, Nifi, PySpark, Kafka, Hadoop, Excel
+
+### Interests
+Data Science, Data Engineering, Machine Learning, Data Analysis
 
 
 ## Projects
@@ -20,7 +22,10 @@ This Project utilizes big data tools such as NiFi, HDFS, and PySpark to ingest, 
 ### [Transaction Fraud Detection (Logistic Regression vs Random Forest Classifier)](https://github.com/JustinAbner/Transaction_Fraud_ML)
 This project utilizes synthetic transaction data to predict fraud. Models and tools such as Logistic Regression, Random Forest Classifier, Pipelines, and GridSearchCV were utilized to maximize the model metrics.
 
-### More projects in progress!
+### [Sentiment Analysis of Movie Reviews using NLP](https://github.com/JustinAbner/Analyzing_Movie_Reviews_with_NLP)
+This project utilizes movie reviews and sentiment values of 1 or 0 (positive or negative, respectively) to predict sentiment. A sentiment analysis was performed by utilizing TextBlob to calculate the polarity. The reviews were stripped of any non-letters, fed into a word tokenizer, passed through a Porter Stemmer, and then each word joined back together to reform the review. A Logistic Regression model was created by using the sentiment column as our target variable and the modified reviews as our feature variable. Prior to applying the Logistic Regression, the reviews were vectorized using a TfidfVectorizer.
+
+### More projects are on the way!
 
 # Contact
 - Mobile: (410)-443-4376
