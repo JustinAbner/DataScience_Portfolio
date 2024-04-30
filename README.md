@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Here are some of my favorite projects showcasing my skills across different domains utilizing various programming languages, packages, and technologies!
+
 ## About
 ### Education
 - M.S., Data Science - Bellevue University (June 2024) (GPA: 4.0)
