@@ -14,10 +14,9 @@ Data Science, Data Engineering, Machine Learning, Data Analysis
 
 
 ## Projects
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### [- Utilizing Bee Symptoms to Predict Imidacloprid (a neonicotinoid insecticide) Concentrations](https://github.com/JustinAbner/Neonicotinoids_Bees_and_ML)
-**Key Tools:** Linear Support Vector Classifier (SVC), GridsearchCV, binary encoding, MinMax Scaler, EDA, Data Cleansing, Data Visualizations
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+> ### [- Utilizing Bee Symptoms to Predict Imidacloprid (a neonicotinoid insecticide) Concentrations](https://github.com/JustinAbner/Neonicotinoids_Bees_and_ML)
+>> **Key Tools:** Linear Support Vector Classifier (SVC), GridsearchCV, binary encoding, MinMax Scaler, EDA, Data Cleansing, Data Visualizations
+
 
 ### [- Weather Service Utilizing an API](https://github.com/JustinAbner/Weather_Service)
 **Key Tools:** Python Requests package
