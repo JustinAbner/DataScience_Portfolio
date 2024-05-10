@@ -3,4 +3,3 @@ description: Welcome! Here are some of my favorite projects showcasing my skills
 show_downloads: true
 theme: jekyll-theme-minimal
 
-print("testing")
