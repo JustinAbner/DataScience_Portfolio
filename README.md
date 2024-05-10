@@ -1,8 +1,9 @@
 # Data Science Portfolio
 
 ## Contact
-- Mobile: (410)-443-4376
-- Email: justinabner97@gmail.com
+- **Mobile:** (410)-443-4376
+- **Email:** justinabner97@gmail.com
+
   
 ## About
 ### Education
@@ -10,7 +11,7 @@
 - B.S. - Frostburg State University (May 2020)
 
 ### Technical Skills
-Python, SQL, R, Nifi, PySpark, Kafka, Hadoop, Excel
+Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Excel
 
 ### Interests
 Data Science, Data Engineering, Machine Learning, Data Analysis
@@ -19,7 +20,6 @@ Data Science, Data Engineering, Machine Learning, Data Analysis
 
 ## Projects
 ### [Utilizing Bee Symptoms to Predict Imidacloprid (a neonicotinoid insecticide) Concentrations](https://github.com/JustinAbner/Neonicotinoids_Bees_and_ML)
-Bees from 10 different species were exposed to varying concentrations of Imidacloprid (0, 5, 20, and 100ppb), and the number of active and paralyzed days were reported. Utilizing features such as species, gender, habitat, and activity level, we were able to create a Linear Support Vector Classifier (SVC) to predict which concentration level a bee has been exposed to. Feature preparation consisted of exploratory data analysis, data cleansing, transforming with a MinMaxScaler, and encoding the categorical columns. 
 Bees from 10 different species were exposed to varying concentrations of Imidacloprid (0, 5, 20, and 100ppb), and the number of active and paralyzed days were reported. Utilizing features such as species, gender, habitat, and activity level, we were able to create a Linear Support Vector Classifier (SVC) with parameter tuning to predict which concentration level a bee has been exposed to. Feature preparation consisted of exploratory data analysis, data cleansing, transforming with a MinMaxScaler, and encoding the categorical columns. 
 
 ### [Weather Service Utilizing an API](https://github.com/JustinAbner/Weather_Service)
