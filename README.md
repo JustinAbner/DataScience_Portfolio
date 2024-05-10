@@ -34,10 +34,8 @@ This project utilizes movie reviews and sentiment values of 1 or 0 (positive or 
 
 ### More projects are on the way!
 
-# Contact
+#### Contact
 - Mobile: (410)-443-4376
 - Email: justinabner97@gmail.com
 
-
-### More projects are on the way!
 
