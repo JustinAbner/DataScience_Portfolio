@@ -4,8 +4,8 @@ description: # Welcome! Here are some of my favorite projects showcasing my skil
 show_downloads: true
 theme: jekyll-theme-minimal
 author: 
-  email: justinabner97@gmail.com
-  phone: (410)-443-4376 
+  email: "justinabner97@gmail.com"
+  phone: "(410)-443-4376"
   
 defaults:
   # _posts
