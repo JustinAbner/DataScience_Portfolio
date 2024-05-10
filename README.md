@@ -1,22 +1,22 @@
 # Data Science Portfolio
 
-## \Contact
+## |Contact|
 - **Mobile:** (410)-443-4376
 - **Email:** justinabner97@gmail.com
 
 
-## \About
+## |About|
 ### Education
 - **M.S., Data Science** - Bellevue University (June 2024) (GPA: 4.0)
 - **B.S.** - Frostburg State University (May 2020)
 
 ### Additional Information
-- **Technical Skills** - Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Excel
+- **Technical Skills** - Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Tableau, Excel
 - **Interests** - Data Science, Data Engineering, Machine Learning, Data Analysis
 
 
 
-## \Projects
+## |Projects|
 ### [Utilizing Bee Symptoms to Predict Imidacloprid (a neonicotinoid insecticide) Concentrations](https://github.com/JustinAbner/Neonicotinoids_Bees_and_ML)
 Bees from 10 different species were exposed to varying concentrations of Imidacloprid (0, 5, 20, and 100ppb), and the number of active and paralyzed days were reported. Utilizing features such as species, gender, habitat, and activity level, we were able to create a Linear Support Vector Classifier (SVC) with parameter tuning to predict which concentration level a bee has been exposed to. Feature preparation consisted of exploratory data analysis, data cleansing, transforming with a MinMaxScaler, and encoding the categorical columns. 
 
