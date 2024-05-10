@@ -1,5 +1,8 @@
 title: Justin Abner
 #logo: /assets/img/headshot_circle.png   Will need to add an assets folder with images inside
 description: Welcome! Here are some of my favorite projects showcasing my skills across different domains while utilizing various programming languages, packages, and technologies!
+Contact:
+  mobile: (410)-443-4376
+  email: justinabner97@gmail.com
 show_downloads: true
 theme: jekyll-theme-minimal
