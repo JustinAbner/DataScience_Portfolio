@@ -1,5 +1,6 @@
 title: Justin Abner
 description: Welcome! Here are some of my favorite projects showcasing my skills across different domains while utilizing various programming languages, packages, and technologies!
-bio: Testing
 show_downloads: true
 theme: jekyll-theme-minimal
+
+print("testing")
