@@ -10,11 +10,9 @@
 - M.S., Data Science - Bellevue University (June 2024) (GPA: 4.0)
 - B.S. - Frostburg State University (May 2020)
 
-### Technical Skills
-Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Excel
-
-### Interests
-Data Science, Data Engineering, Machine Learning, Data Analysis
+### Get to Know Me!
+- **Technical Skills** - Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Excel
+- **Interests** - Data Science, Data Engineering, Machine Learning, Data Analysis
 
 
 
