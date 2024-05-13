@@ -33,7 +33,7 @@ This project utilizes movie reviews and sentiment values of 1 or 0 (positive or 
 ### [Transaction Fraud Detection (Logistic Regression vs Random Forest Classifier)](https://github.com/JustinAbner/Transaction_Fraud_ML)
 This project utilizes synthetic transaction data to predict fraud. Models and tools such as Logistic Regression, Random Forest Classifier, Pipelines, and GridSearchCV were utilized to maximize the model metrics.
 
-### Predicting Arsenic Concentrations in Community Water Systems (CWS) (**In Progress**)
+### Predicting Arsenic Concentrations in Community Water Systems (CWS) (***In Progress***)
 We will be utilizing data such as population size, counts of certain diseases, and environmental indexes for specific counties to predict arsenic concentrations in community water systems (CWS). A Pipeline will be created, which will contain a Linear Regression and a Standard Scaler.
 
 ### More projects are on the way!
