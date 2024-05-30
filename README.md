@@ -11,7 +11,7 @@
 - **B.S.** - Frostburg State University (May 2020)
 
 ### Additional Information
-- **Clearance** - T5/ Top Secret
+- **Clearance** - Top Secret
 - **Technical Skills** - Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Tableau, Excel
 - **Interests** - Data Science, Data Engineering, Machine Learning, Data Analysis
 
