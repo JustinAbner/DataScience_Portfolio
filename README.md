@@ -21,8 +21,11 @@
 ### [Utilizing Bee Symptoms to Predict Imidacloprid (a neonicotinoid insecticide) Concentrations](https://github.com/JustinAbner/Neonicotinoids_Bees_and_ML)
 Bees from 10 different species were exposed to varying concentrations of Imidacloprid (0, 5, 20, and 100ppb), and the number of active and paralyzed days were reported. Utilizing features such as species, gender, habitat, and activity level, we were able to create a Linear Support Vector Classifier (SVC) with parameter tuning to predict which concentration level a bee has been exposed to. Feature preparation consisted of exploratory data analysis, data cleansing, transforming with a MinMaxScaler, and encoding the categorical columns. 
 
+### [Predicting Arsenic Concentrations in Community Water Systems](https://github.com/JustinAbner/DataScience_Portfolio/tree/main/Arsenic%20Concentrations%20in%20CWS)
+Utilizing data such as population size, counts of certain diseases, and environmental indexes for specific counties, we will predict arsenic (parts per billion) concentrations in community water systems. This project looks at how Linear, Bayesian Ridge, and Decision Tree Regression models stack up to one another. 
+
 ### [Weather Service Utilizing an API](https://github.com/JustinAbner/Weather_Service)
-This project revolves around a weather API and user input. Users are prompted to choose if they wish to enter either a zipcode or city/state of the area they wish, and the respective coordinates are retrieved. An API request with the coordinates and an API key is used to obtain the temperature (the current, high, and low of the day), the pressure, humidity, cloud cover status, and the overall weather description.
+This project revolves around a weather API and user input. Users are prompted to choose if they wish to enter either a zipcode or city/state of the area they wish and the respective coordinates are retrieved. An API request with the coordinates and an API key is used to obtain the temperature (the current, high, and low of the day), the pressure, humidity, cloud cover status, and the overall weather description.
 
 ### [Utilizing Big Data Tools to Predict Ukraine War Outcomes](https://github.com/JustinAbner/UkraineWar_and_BigDataTools)
 This Project utilizes big data tools such as NiFi, HDFS, and PySpark to ingest, query, store, and perform machine learning to predict the outcome type to determine if civilians should flee or if they will be relatively safe to stay. A flow was created in NiFi to ingest the data, query it to select the desired columns/data range, and then return the modified data. HDFS received the data where its storage capabilities were utilized thus being accessible to PySpark. PySpark was used to further clean the data and prepare it for machine learning in which a Decision Tree Classifier was used and a metric evaluated.
@@ -33,8 +36,8 @@ This project utilizes movie reviews and sentiment values of 1 or 0 (positive or 
 ### [Transaction Fraud Detection (Logistic Regression vs Random Forest Classifier)](https://github.com/JustinAbner/Transaction_Fraud_ML)
 This project utilizes synthetic transaction data to predict fraud. Models and tools such as Logistic Regression, Random Forest Classifier, Pipelines, and GridSearchCV were utilized to maximize the model metrics.
 
-### Predicting Arsenic Concentrations in Community Water Systems (CWS) (***In Progress***)
-We will be utilizing data such as population size, counts of certain diseases, and environmental indexes for specific counties to predict arsenic concentrations in community water systems (CWS). A Pipeline will be created, which will contain a Linear Regression and a Standard Scaler.
+### []()
+
 
 ### More projects are on the way!
 
