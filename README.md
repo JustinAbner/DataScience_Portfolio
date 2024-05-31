@@ -39,6 +39,8 @@ This project utilizes synthetic transaction data to predict fraud. Models and to
 ### [Database Creation with Python and SQLite](https://github.com/JustinAbner/DataScience_Portfolio/tree/main/SQLite%20and%20User%20Data)
 Using Python's SQLite package, a database was initiated, and a table was created. Upon filling the table with data, SQL querying capabilities were utilized to search the table by specific criteria.
 
+### [Data Visualizations](https://github.com/JustinAbner/DataScience_Portfolio/tree/main/Data%20Visualizations)
+Demonstrating visuals created using R and a Tableau dashboard.
 
 ### More projects are on the way!
 
