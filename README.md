@@ -27,7 +27,6 @@ Utilizing data such as population size, counts of certain diseases, and environm
 ### [Movie Recommender System](https://github.com/JustinAbner/DataScience_Portfolio/tree/main/Recommender%20System)
 This project utilizes three movie datasets that must be joined and manipulated before calculating the cosine similarity scores of the combined movie tag and genre columns. The user is able to enter a movie title or partial name and the top 10 related movies will be returned with the respective movie rating.
 
-
 ### [Weather Service Utilizing an API](https://github.com/JustinAbner/Weather_Service)
 This project revolves around a weather API and user input. Users are prompted to choose if they wish to enter either a zipcode or city/state of the area they wish and the respective coordinates are retrieved. An API request with the coordinates and an API key is used to obtain the temperature (the current, high, and low of the day), the pressure, humidity, cloud cover status, and the overall weather description.
 
@@ -45,8 +44,6 @@ Using Python's SQLite package, a database was initiated, and a table was created
 
 ### [Data Visualizations](https://github.com/JustinAbner/DataScience_Portfolio/tree/main/Data%20Visualizations)
 Demonstrating visuals created using R and a Tableau dashboard.
-
-### More projects are on the way!
 
 #### Contact
 - Mobile: (410)-443-4376
