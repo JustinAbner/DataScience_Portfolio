@@ -36,7 +36,8 @@ This project utilizes movie reviews and sentiment values of 1 or 0 (positive or 
 ### [Transaction Fraud Detection (Logistic Regression vs Random Forest Classifier)](https://github.com/JustinAbner/Transaction_Fraud_ML)
 This project utilizes synthetic transaction data to predict fraud. Models and tools such as Logistic Regression, Random Forest Classifier, Pipelines, and GridSearchCV were utilized to maximize the model metrics.
 
-### []()
+### [Database Creation with Python and SQLite](https://github.com/JustinAbner/DataScience_Portfolio/tree/main/SQLite%20and%20User%20Data)
+Using Python's SQLite package, a database was initiated, and a table was created. Upon filling the table with data, SQL querying capabilities were utilized to search the table by specific criteria.
 
 
 ### More projects are on the way!
