@@ -7,7 +7,7 @@
 ## |About|
 ### Education
 - **M.S., Data Science** - Bellevue University (GPA: 4.0)
-- **B.S.** - Frostburg State University (May 2020)
+- **B.S.** - Frostburg State University
 
 ### Additional Information
 - **Clearance** - Top Secret
