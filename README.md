@@ -1,10 +1,10 @@
 # Data Science Portfolio
 
-## |Contact|
+## Contact
 - **Email:** justinabner97@gmail.com
 
 
-## |About|
+## About
 ### Education
 - **M.S., Data Science** - Bellevue University (GPA: 4.0)
 - **B.S.** - Frostburg State University
@@ -14,7 +14,7 @@
 - **Technical Skills** - Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Tableau, Excel
 - **Interests** - Data Science, Data Engineering, Machine Learning, ETL/Pipeline Development
 
-## |Projects|
+## Projects
 ### [API pipeline that pulls business data from the City of Chicago website](https://github.com/JustinAbner/DENG-Assignment/tree/main/business_api)
 Creating a data pipeline that scrapes publicly available business license and business owner data from the City of Chicago website, transforms/cleans the data, and then joins the two datasets.
 
