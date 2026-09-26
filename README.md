@@ -15,7 +15,7 @@
 - **Interests** - Data Science, Data Engineering, Machine Learning, ETL/Pipeline Development
 
 ## Projects
-### [API pipeline that pulls business data from the City of Chicago website](https://github.com/JustinAbner/DENG-Assignment/tree/main/business_api)
+### [API pipeline that pulls business data from the City of Chicago website](https://github.com/JustinAbner/DataScience_Portfolio/tree/main/Business%20Data%20API)
 Creating a data pipeline that scrapes publicly available business license and business owner data from the City of Chicago website, transforms/cleans the data, and then joins the two datasets.
 
 ### [Utilizing Bee Symptoms to Predict Imidacloprid (a neonicotinoid insecticide) Concentrations](https://github.com/JustinAbner/Neonicotinoids_Bees_and_ML)
