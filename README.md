@@ -1,23 +1,23 @@
 # Data Science Portfolio
 
 ## |Contact|
-- **Mobile:** (410)-443-4376
 - **Email:** justinabner97@gmail.com
 
 
 ## |About|
 ### Education
-- **M.S., Data Science** - Bellevue University (June 2024) (GPA: 4.0)
+- **M.S., Data Science** - Bellevue University (GPA: 4.0)
 - **B.S.** - Frostburg State University (May 2020)
 
 ### Additional Information
 - **Clearance** - Top Secret
 - **Technical Skills** - Python, SQL, R, ML, NLP, Nifi, PySpark, Kafka, Hadoop, Tableau, Excel
-- **Interests** - Data Science, Data Engineering, Machine Learning, Data Analysis
-
-
+- **Interests** - Data Science, Data Engineering, Machine Learning, ETL/Pipeline Development
 
 ## |Projects|
+### [API pipeline that pulls business data from the City of Chicago website](https://github.com/JustinAbner/DENG-Assignment/tree/main/business_api)
+Creating a data pipeline that scrapes publicly available business license and business owner data from the City of Chicago website, transforms/cleans the data, and then joins the two datasets.
+
 ### [Utilizing Bee Symptoms to Predict Imidacloprid (a neonicotinoid insecticide) Concentrations](https://github.com/JustinAbner/Neonicotinoids_Bees_and_ML)
 Bees from 10 different species were exposed to varying concentrations of Imidacloprid (0, 5, 20, and 100ppb), and the number of active and paralyzed days were reported. Utilizing features such as species, gender, habitat, and activity level, we were able to create a Linear Support Vector Classifier (SVC) with parameter tuning to predict which concentration level a bee has been exposed to. Feature preparation consisted of exploratory data analysis, data cleansing, transforming with a MinMaxScaler, and encoding the categorical columns. 
 
@@ -46,7 +46,6 @@ Using Python's SQLite package, a database was initiated, and a table was created
 Demonstrating visuals created using R and a Tableau dashboard.
 
 #### Contact
-- Mobile: (410)-443-4376
 - Email: justinabner97@gmail.com
 
 
